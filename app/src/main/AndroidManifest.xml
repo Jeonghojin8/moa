@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.moa_ex" >
+    <!-- 인터넷 권한 설정 -->
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- 오디오 사용 -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" ></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:allowClearUserData="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MoA_ex"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="30" >
+        <activity
+            android:name=".userMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CalendarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".userSearch"
+            android:exported="false" />
+        <activity
+            android:name=".join_senior_family"
+            android:exported="false" />
+        <activity
+            android:name=".join_senior_f_phone"
+            android:exported="false" />
+        <activity
+            android:name=".join_senior_f_name"
+            android:exported="false" />
+        <activity
+            android:name=".join_senior_name"
+            android:exported="false" />
+        <activity
+            android:name=".talk"
+            android:exported="false" />
+        <activity
+            android:name=".join_senior_phone"
+            android:exported="false" />
+        <activity
+            android:name=".join_senior_id"
+            android:exported="false" />
+        <activity
+            android:name=".join_senior_birth"
+            android:exported="false" />
+        <activity
+            android:name=".login_senior"
+            android:exported="false" />
+        <activity
+            android:name=".login_admin"
+            android:exported="false" />
+        <activity
+            android:name=".join_success_s"
+            android:exported="false" />
+        <activity
+            android:name=".join_success_a"
+            android:exported="false" />
+        <activity
+            android:name=".join_admin"
+            android:exported="false" />
+        <activity
+            android:name=".admin_mypage"
+            android:exported="false" />
+        <activity
+            android:name=".contacts_ListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".who_join"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- 팝업 Activity -->
+        <activity
+            android:name=".popup"
+            android:screenOrientation="portrait"
+            android:theme="@style/popuptheme" />
+    </application>
+
+    <queries>
+        <intent>
+            <action android:name="android.speech.RecognitionService" />
+        </intent>
+    </queries>
+
+<!--who_join CalendarActivity-->
+</manifest>

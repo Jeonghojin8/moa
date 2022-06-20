@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MOA/app/src/main/res/layout/activity_join_admin.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MOA/app/src/main/res/layout/activity_join_senior_family.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MOA/app/src/main/res/layout/activity_join_senior_fname.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MOA/app/src/main/res/layout/activity_join_senior_fphone.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MOA/app/src/main/res/layout/activity_talk.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MOA/app/src/main/res/layout/fragment_calender.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MOA/app/src/main/res/layout/fragment_contact.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MOA/app/src/main/res/layout/test.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MOA/app/src/main/res/menu/menu_bottom.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/drawable/button_pattern.xml" value="0.125" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/drawable/edittext_pattern.xml" value="0.366" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/font/font_set.xml" value="0.296484375" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_calender.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_contact.xml" value="0.14" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join.xml" value="0.28055555555555556" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_admin.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior.xml" value="0.3515625" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior1.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior3.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior4.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior5.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior6.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior7.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior_birth.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior_family.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior_fname.xml" value="0.3515625" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior_fphone.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior_id.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior_name.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_join_senior_phone.xml" value="0.3515625" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_login_admin.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_login_senior.xml" value="0.3515625" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_main2.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_search.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_talk.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_user_search.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/activity_who_join.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/fragment_calender.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/fragment_contact.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/layout/join_success.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/MoA_ex/app/src/main/res/menu/menu_bottom.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/moa-hongju (2)/moa-hongju/app/src/main/res/layout/activity_calendarmain.xml" value="0.16337386018237082" />
+        <entry key="..\:/Users/smhrd/Desktop/moa-hongju (2)/moa-hongju/app/src/main/res/layout/activity_contacts_list_view.xml" value="0.16337386018237082" />
+        <entry key="..\:/Users/smhrd/Desktop/moa-hongju (2)/moa-hongju/app/src/main/res/layout/activity_who_join.xml" value="0.16337386018237082" />
+        <entry key="..\:/Users/smhrd/Documents#AndroidProject/MOA-master (3)/MOA-master/app/src/main/res/layout/activity_join_admin.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/smhrd/Documents#AndroidProject/MOA-master (3)/MOA-master/app/src/main/res/layout/activity_join_senior_family.xml" value="0.17375886524822695" />
+        <entry key="..\:/Users/smhrd/Documents#AndroidProject/MOA-master (3)/MOA-master/app/src/main/res/layout/activity_join_senior_id.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/smhrd/Documents#AndroidProject/MOA-master (3)/MOA-master/app/src/main/res/layout/activity_login_admin.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/smhrd/Documents#AndroidProject/MOA-master (3)/MOA-master/app/src/main/res/layout/activity_who_join.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MoA-master/MoA-master/app/src/main/res/layout/activity_join_senior_birth.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MoA-master/MoA-master/app/src/main/res/layout/activity_talk.xml" value="0.5" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/moa-hongju/app/src/main/res/layout/activity_calendarmain.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/drawable/button_pattern.xml" value="0.2515" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/drawable/custom_spinner.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/drawable/edittext_pattern.xml" value="0.367" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_admin_mypage.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_contacts.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_contacts_list_view.xml" value="0.1890625" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_contavts_list_item.xml" value="0.1890625" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_contect_list.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_emotion.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_howto_use.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_howtouse.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_join_admin.xml" value="0.1890625" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_join_senior_birth.xml" value="0.3038949275362319" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_join_senior_family.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_join_senior_fname.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_join_senior_fphone.xml" value="0.3038949275362319" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_join_senior_id.xml" value="0.3038949275362319" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_join_senior_name.xml" value="0.3038949275362319" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_join_senior_phone.xml" value="0.3038949275362319" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_login_admin.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_login_senior.xml" value="0.3038949275362319" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_popup.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_talk.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_user_list.xml" value="0.3038949275362319" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_user_main.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_user_search.xml" value="0.3038949275362319" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_userlist.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_usersearch.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_voice.xml" value="0.3038949275362319" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/activity_who_join.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/contacts_list.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/contacts_listitem.xml" value="0.67" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/contacts_listlayout.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/dfd.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/fragment_calender.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/fragment_calender2.xml" value="0.1890625" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/fragment_contact.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/fragment_search.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/join_success.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/join_success_a.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/join_success_s.xml" value="0.1890625" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/search_layout.xml" value="0.5" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/search_layout2.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/layout/search_layout_item.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/smhrd/Documents/MOA/app/src/main/res/menu/menu_bottom.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_admin_mypage.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_calender.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_contacts.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_contacts_list_view.xml" value="0.22" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_contavts_list_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_join_admin.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_join_senior_birth.xml" value="0.3578125" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_join_senior_family.xml" value="0.3049645390070922" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_join_senior_fname.xml" value="0.3578125" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_join_senior_fphone.xml" value="0.3578125" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_join_senior_id.xml" value="0.3578125" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_join_senior_name.xml" value="0.3578125" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_join_senior_phone.xml" value="0.3049645390070922" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_jsonactivity.xml" value="0.3578125" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_login_admin.xml" value="0.2153846153846154" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_login_senior.xml" value="0.3049645390070922" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_popup.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_talk.xml" value="0.2140625" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_user_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_usersearch.xml" value="0.2" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/activity_who_join.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/contacts_listitem.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/join_success_a.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/join_success_s.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/search_layout2.xml" value="0.5" />
+        <entry key="..\:/Users/smhrd/Documents/moa-master/app/src/main/res/layout/search_layout_item.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/drawable/button_pattern.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/drawable/edittext_pattern.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_admin_mypage.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_calender.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_contacts_list_view.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_join_admin.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_join_senior_birth.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_join_senior_family.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_join_senior_fname.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_join_senior_fphone.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_join_senior_id.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_join_senior_name.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_join_senior_phone.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_login_admin.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_login_senior.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_talk.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_user_main.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_usersearch.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/activity_who_join.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/contacts_listitem.xml" value="0.22" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/join_success_a.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/join_success_s.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/search_layout2.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-hongju/app/src/main/res/layout/search_layout_item.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/moa-master/app/src/main/res/layout/activity_join_admin.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/smhrd/moa-master/app/src/main/res/layout/activity_join_senior_phone.xml" value="0.3458333333333333" />
+        <entry key="..\:/Users/smhrd/moa-master/app/src/main/res/layout/activity_login_admin.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/smhrd/moa-master/app/src/main/res/layout/activity_login_senior.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/moa-master/app/src/main/res/layout/join_success_a.xml" value="0.3458333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3515625" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
